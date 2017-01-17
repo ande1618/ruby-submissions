@@ -46,7 +46,7 @@
 
 ## James Anderson
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/ande1618/web_guesser/blob/master/web_guesser.rb
 
 ## Jonthan Serrano
 
